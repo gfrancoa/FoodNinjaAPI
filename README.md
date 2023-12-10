@@ -1,5 +1,20 @@
-## Food Ninja API setup 🥷🍕
+# Food Ninja API 🥷🍕
 
+## Description
+API to retrieve and filter recipes, having the capabilities to add them to favorite. Includes authentication and authorization features.
+
+## Technologies
+- Node.js
+- Express
+- Sequelize
+- MySQL
+
+## Contributors
+Alfredo Parreira - @alfredoparreiras
+Rehman Basharat - @Ray7705
+Jared Chevalier - @jared-chevalier
+
+## Instructions to run project
 1. 💻 Clone the repo and install the dependencies:
 
 ```
