@@ -1,5 +1,8 @@
 # Food Ninja API 🥷🍕
 
+<img width="1578" alt="image" src="https://github.com/gfrancoa/FoodNinjaAPI/assets/74123374/302f4861-14da-45b7-9c18-b57cf11cea23">
+
+
 ## Description
 API to retrieve and filter recipes, having the capabilities to add them to favorite. Includes authentication and authorization features.
 
@@ -10,8 +13,8 @@ API to retrieve and filter recipes, having the capabilities to add them to favor
 - MySQL
 
 ## Contributors
-Alfredo Parreira - @alfredoparreiras
-Rehman Basharat - @Ray7705
+Alfredo Parreira - @alfredoparreiras |
+Rehman Basharat - @Ray7705 |
 Jared Chevalier - @jared-chevalier
 
 ## Instructions to run project
